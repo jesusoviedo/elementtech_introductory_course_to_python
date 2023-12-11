@@ -1,0 +1,3 @@
+pedro,100
+juan,100
+nuñez,100
