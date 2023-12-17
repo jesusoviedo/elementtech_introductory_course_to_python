@@ -21,3 +21,27 @@ Clase 3
 * Funciones anidadas
 
 
+Clase 4
+* Colecciones
+* Listas
+* Tuplas
+* Diccionarios
+* Conjuntos
+
+
+Clase 5
+* Comprensiones de listas
+* Comprensiones de diccionarios
+* Manejo de excepciones
+
+
+Clase 6
+* Expresiones regulares
+* Conceptos básicos
+* Metacaracteres
+* Clases de caracteres
+* Modificadores
+
+
+Clase 7
+* Manejo de archivos
